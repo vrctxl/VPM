@@ -17,6 +17,7 @@
         "vrctxl/AccessTXL",
         "vrctxl/CommonTXL",
         "vrctxl/MiscTXL",
-        "vrctxl/PlayerAudioTXL"
+        "vrctxl/PlayerAudioTXL",
+        "vrctxl/VideoTXL"
     ]
 }
