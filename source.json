@@ -9,8 +9,8 @@
     },
     "description":"Packages based around the VideoTXL video player and related ecosystem.",
     "infoLink":{
-        "url":"http://github.com/vrctxl/VPM",
-        "text":"View on GitHub"
+        "url":"https://vrctxl.github.io/Docs",
+        "text":"Documentation Hub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
